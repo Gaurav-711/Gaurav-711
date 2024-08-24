@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning JavaScript and DSA 
 - 💞️ I’m looking to collaborate on different and new projects
-- 📫 How to reach me gauravjha9038@gmail.com
+- 📫 My Profile : https://gaurav-711.github.io/Profile-Portfolio/home.html
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: loves coding and food 🫠❤️‍🩹
 
