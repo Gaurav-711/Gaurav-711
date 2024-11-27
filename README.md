@@ -2,7 +2,7 @@
   
 # 👀 I’m interested in Coding, sketch and ,learing chess and reading 
 
-# 🌱 I’m currently learning JavaScript and DSA 
+# 🌱 I’m currently learning JavaScript , Machine Learning and DSA 
 
 # 💞️ I’m looking to collaborate on different and new projects
 
