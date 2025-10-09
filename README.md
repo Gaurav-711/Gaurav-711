@@ -1,4 +1,4 @@
-#👋 Hi, I’m Gaurav ,I am a Second-year B.Tech Computer Science student at Institute of engineering and management, Newtown, who is excited to learn more about the constantly changing field of technology.
+#👋 Hi, I’m Gaurav ,I am a Third-year B.Tech Computer Science student at Institute of engineering and management, Newtown, who is excited to learn more about the constantly changing field of technology.
   
 # 👀 I’m interested in Coding, sketch and ,learing chess and reading 
 
